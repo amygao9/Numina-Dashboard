@@ -2,4 +2,5 @@
 ![Demo](demo_video.gif)
 
 
-![Demo Video](https://youtu.be/9uanbtQJpMc)
+
+[![Watch the video](https://img.youtube.com/vi/9uanbtQJpMc/maxresdefault.jpg)]()
