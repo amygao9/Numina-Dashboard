@@ -1,4 +1,4 @@
-# Numina-Sensor-Dashboard
+# Numina Sensor Dashboard
 
 
 ## Demo
